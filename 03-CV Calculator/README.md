@@ -4,7 +4,7 @@ A touchless calculator powered by hand-tracking using OpenCV and CVZone!
 Use your fingers as input to simulate button clicks — no physical contact required.
 
 <div align="center">
-     <img src = "https://github.com/Ignaciodibella/ComputerVisionCalculator/blob/main/cvcalc.gif">
+     <img src = "https://github.com/Ignaciodibella/Data-Science-AI-Projects/blob/main/03-CV%20Calculator/cvcalc.gif">
 </div>
 
 <div align="center">
