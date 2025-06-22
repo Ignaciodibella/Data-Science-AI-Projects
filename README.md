@@ -16,4 +16,4 @@ Welcome to my Data Science and AI portfolio.
 
 ## 📫 Contact
 
-Puedes contactarme a través de [LinkedIn](#)
+Find me at [LinkedIn](https://www.linkedin.com/in/ignacio-di-bella/)
