@@ -6,7 +6,7 @@ Welcome to my Data Science and AI portfolio.
 
 ## 🗂️ Featured Projects
 1. **01-Titanic (ML)** – Binary Classification using XGBoost.
-2. **02-Digit Recognizer (CV)** – Deep Learning using CNN.
+2. **02-Digit Recognizer (CV)** – Multiclass Classification using CNN.
 
 ## 🛠️ Tools & Technologies
 
