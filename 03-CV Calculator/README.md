@@ -8,7 +8,7 @@ Use your fingers as input to simulate button clicks — no physical contact requ
 </div>
 
 <div align="center">
-     <img src = "https://github.com/Ignaciodibella/ComputerVisionCalculator/blob/main/handrecognition.png" width = 507 height = 284>
+     <img src = "https://github.com/Ignaciodibella/Data-Science-AI-Projects/blob/main/03-CV%20Calculator/handrecognition.png" width = 507 height = 284>
 </div>
 
 ## 🎯 Objective
@@ -67,5 +67,5 @@ This project was made using `Python 3.9`.
 <br> Nonetheless, you can tweak this config at line 84: `if length < 47:`
 
 <div align="center">
-<img src ="https://github.com/Ignaciodibella/ComputerVisionCalculator/blob/main/length.PNG">
+<img src ="https://github.com/Ignaciodibella/Data-Science-AI-Projects/blob/main/03-CV%20Calculator/length.PNG">
 </div>
