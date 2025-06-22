@@ -1,6 +1,7 @@
 # 🔢 Handwritten Digit Recognizer
 
 A computer vision project that uses deep learning to classify grayscale images of handwritten digits (0–9) from the classic MNIST dataset.
+🏆 [Based on this Kaggle Competition.](https://www.kaggle.com/competitions/digit-recognizer)
 
 ## 🎯 Objective
 
