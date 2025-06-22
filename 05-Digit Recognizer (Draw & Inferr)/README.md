@@ -1,5 +1,5 @@
 # 🔢 Handwritten Digit Recognizer (Draw & Inferr)
-This project builds on top of the [02-Digit Recognizer (CV)](https://github.com/Ignaciodibella/Data-Science-AI-Projects/tree/main/02-Digit%20Recognizer%20(CV)) project. Where we trained a CNN to classify handwriten digits from 0-9.
+🔙 This project builds on top of the [02-Digit Recognizer (CV)](https://github.com/Ignaciodibella/Data-Science-AI-Projects/tree/main/02-Digit%20Recognizer%20(CV)) project. Where we trained a CNN to classify handwriten digits from 0-9.
 
 In this project i'm using the model trained in **02-Digit Recognizer (CV)** and let a user input some handwirten digits to be inferred
 
