@@ -1,16 +1,43 @@
-# Computer Vision Calculator
-Gesture controlled calculator using computer vision with python.
+# ✋🧮 Computer Vision Calculator
+
+A touchless calculator powered by hand-tracking using OpenCV and CVZone!  
+Use your fingers as input to simulate button clicks — no physical contact required.
+
 <div align="center">
      <img src = "https://github.com/Ignaciodibella/ComputerVisionCalculator/blob/main/cvcalc.gif">
 </div>
-
-<br>
 
 <div align="center">
      <img src = "https://github.com/Ignaciodibella/ComputerVisionCalculator/blob/main/handrecognition.png" width = 507 height = 284>
 </div>
 
-### 💡 How to use it:
+## 🎯 Objective
+
+Build an interactive calculator interface that detects hand gestures via a webcam and interprets finger positions as virtual button clicks.
+
+## 🧰 Technologies & Tools
+
+- 🐍 Python
+- 📸 OpenCV
+- ✋ CVZone (HandTrackingModule)
+- 🧪 mediapipe
+
+## 🧠 How It Works
+
+- Detects a hand using `cvzone.HandTrackingModule`.
+- Tracks the **index** and **middle fingers** to recognize a "click" gesture (fingers close together).
+- Maps the fingertip position to virtual buttons displayed on the screen.
+- Executes operations like `+`, `-`, `*`, `/`, `=`, and controls like clear (`C`) and delete (`D`).
+
+## 🖼️ Features
+
+- Visual on-screen buttons and display area.
+- Button feedback when clicked.
+- Fully functional calculator logic.
+- Gesture-based interaction — no physical keyboard or mouse needed.
+
+## ▶️ Getting Started
+
 1. Download the `CVCalculator.py` file.
 2. See the **Requirement** section for installation requirements.
 3. Once it's up and running you'll notice the front camera will open up and a window will pop up.
@@ -25,7 +52,7 @@ Gesture controlled calculator using computer vision with python.
    <br> Two minus signs will end up being interpreted as a sum and a (5 - - 5 = 10)
    <br> And something similar happens if you mix +/- endig up in a substraciont (5 +- 2 = 3)
 
-### ⚠️Requirements: 
+## ⚠️Requirements: 
 You'll need to install the following
 - `cvzone` (here i'm using the 1.5.6 version)
 - `opencv-python` (i'm using the 4.7.0.72 version)
@@ -33,7 +60,7 @@ You'll need to install the following
 
 This project was made using `Python 3.9`.
 
-### 🛠️Configuration:
+## 🛠️Configuration:
 - At line 82 you'll see a line containing: `#print(length)`
 <br> If you uncomment this line and run the project, you'll notice that as you move your index finger closer to (or further from) your middle finger, a series of console outputs will display the distance between them.
 <br> This is intended to adjust or calibrate the clic sensibility, but the default config should work just fine.
