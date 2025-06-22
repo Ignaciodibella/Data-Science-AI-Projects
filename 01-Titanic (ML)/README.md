@@ -1,6 +1,7 @@
 # 🚢 Titanic Survival Prediction
 
 A classic binary classification problem — predicting survival on the Titanic using passenger data.
+[🏆 Based on this Kaggle Competition.](https://www.kaggle.com/competitions/titanic)
 
 ## 🎯 Objective
 
