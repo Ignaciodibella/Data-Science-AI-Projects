@@ -11,7 +11,7 @@ Welcome to my Data Science and AI portfolio.
 
 ## 🛠️ Tools & Technologies
 
-- Python (pandas, NumPy, scikit-learn, matplotlib, seaborn, PyTorch, etc.)
+- Python (pandas, NumPy, scikit-learn, matplotlib, seaborn, PyTorch, TensorFlow, Keras, etc.)
 - Jupyter Notebooks
 - Git/GitHub
 
