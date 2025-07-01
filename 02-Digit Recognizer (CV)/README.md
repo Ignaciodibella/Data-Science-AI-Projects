@@ -1,5 +1,5 @@
 <div align="center">
-     <img src = "https://github.com/Ignaciodibella/Data-Science-AI-Projects/blob/main/02-Digit%20Recognizer%20(CV)/img/header.png">
+     <img src = "https://github.com/Ignaciodibella/Data-Science-AI-Projects/blob/main/02-Digit%20Recognizer%20(CV)/img/mnis_banner.png">
 </div>
 
 # 🔢 Handwritten Digit Recognizer
