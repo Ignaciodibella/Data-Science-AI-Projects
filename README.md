@@ -1,3 +1,7 @@
+<div align="center">
+     <img src = "">
+</div>
+
 # 🧠 Data-Science-AI-Projects
 
 Welcome to my Data Science and AI portfolio.
