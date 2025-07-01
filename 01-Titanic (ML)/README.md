@@ -1,3 +1,7 @@
+<div align="center">
+     <img src = "https://github.com/Ignaciodibella/Data-Science-AI-Projects/blob/main/03-CV%20Calculator/cvcalc.gif">
+</div>
+
 # 🚢 Titanic Survival Prediction
 
 A classic binary classification problem — predicting survival on the Titanic using passenger data.
