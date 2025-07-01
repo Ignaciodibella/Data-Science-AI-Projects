@@ -1,3 +1,7 @@
+<div align="center">
+     <img src = "https://github.com/Ignaciodibella/Data-Science-AI-Projects/blob/main/08%20-%20Kannada%20MNIST%20(CNN)/img/header.png">
+</div>
+
 # 🔢 Handwritten Digit Recognizer
 
 A computer vision project that uses deep learning to classify grayscale images of handwritten digits (0–9) in Kannada-MNIST dataset.
