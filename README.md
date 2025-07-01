@@ -1,5 +1,5 @@
 <div align="center">
-     <img src = "https://github.com/Ignaciodibella/Data-Science-AI-Projects/blob/main/img/banner.jpg">
+     <img src = "https://github.com/Ignaciodibella/Data-Science-AI-Projects/blob/main/img/readmebanner.jpg">
 </div>
 
 # 🧠 Data-Science-AI-Projects
