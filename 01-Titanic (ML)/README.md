@@ -1,5 +1,5 @@
 <div align="center">
-     <img src = "https://github.com/Ignaciodibella/Data-Science-AI-Projects/blob/main/03-CV%20Calculator/cvcalc.gif">
+     <img src = "https://github.com/Ignaciodibella/Data-Science-AI-Projects/blob/main/01-Titanic%20(ML)/img/titanic_banner.jpg">
 </div>
 
 # 🚢 Titanic Survival Prediction
