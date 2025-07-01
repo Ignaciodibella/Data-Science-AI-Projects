@@ -33,7 +33,7 @@ Build a neural network model to recognize digits from image data using supervise
 
 ## 📌 Notes
 
-- Dataset source: [Kaggle Digit Recognizer](https://www.kaggle.com/competitions/digit-recognizer)
+- Dataset source: [Kaggle Kannada MNIST](https://www.kaggle.com/competitions/Kannada-MNIST)
 - GPU-accelerated training on Kaggle for better performance.
 
 ---
